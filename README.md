@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 	- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
 	- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
 	- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
-	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
+	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
 	- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 	
    
